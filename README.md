@@ -35,7 +35,7 @@ All steps are executed using Python and common data analysis libraries like `pan
 
 Below is a sample dashboard created based on the insights:
 
-![Power BI Dashboard](Screenshots\powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/Mohamed-AbdElrhman49/EcommerceEDA/blob/main/Screenshots/powerbi_dashboard.png)
 
 ---
 
